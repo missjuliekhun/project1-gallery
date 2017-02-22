@@ -1,5 +1,4 @@
-# WDI Project1 Gallery
-
+TRIVIA GAME
 [Project 1 info here](https://github.com/ga-wdi-exercises/project1)
 
 Include the following in your submission
